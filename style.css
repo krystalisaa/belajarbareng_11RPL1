@@ -11,3 +11,8 @@ body{
     color: white;
     background: #7fff00;
 }
+
+body li{
+    list-style: none;
+    text-decoration: none;
+}
